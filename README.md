@@ -1,10 +1,16 @@
-### Hi there 👋
+Programming Languages: C, C++, Python, MATLAB
+Embedded Systems: STM32, Arduino, PCB Design, Motor Control
+Robotics & AI: ROS, V-REP, Computer Vision, Pathfinding Algorithms
+Development Tools: Git, Visual Studio, Linux
 
 <!--
 **PhamVietDan/PhamVietDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Programming Languages: C, C++, Python, C#, JavaScript, MATLAB
+Embedded Systems: STM32, Arduino, PCB Design, Motor Control
+Robotics & AI: ROS, V-REP, Computer Vision, Pathfinding Algorithms
+Development Tools: Git, Visual Studio, Linux
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
